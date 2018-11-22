@@ -1,1 +1,1 @@
-# codalab_juno_competition
+# juno-starterkit
